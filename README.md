@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/badge/-json-orange" />
 </p>
 
+Below is the gif showing the functionality of the application:
+  
+![README Generator](src/Readme-generatorGIF.gif)
 
 ## Description
   
