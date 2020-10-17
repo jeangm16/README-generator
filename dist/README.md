@@ -1,9 +1,9 @@
 
-<h1 align="center">ReadMe Generator using node.js </h1>
+<h1 align="center">README Generator using node.js </h1>
   
 ![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)<br />
 ## Description
- A node.js application that creates a generated ReanMe.md file to the dist directory
+ Application that creates a generated readme.md file to the dist directory
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,20 +15,20 @@
 ## Installation
  npm install inquirer is required
 ## Usage
- DU Coding Bootcamp homework / you can generate readme witch is cool 
+ DU coding bootcamp home
 ## License
 ![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)
 <br />
 This application is covered by the Mozilla license. 
 ## Contributing
- Jean Gabriel Melendez
+ Jean Melendez
 ## Tests
-✏️ no a test is not included 
+✏️ no tests are included 
 ## Questions
  email me or contact me on github <br />
 <br />
-:octocat: Find me on GitHub: [Jeangm16](https://github.com/Jeangm16)<br />
+:octocat: Find me on GitHub: [jeangm16](https://github.com/jeangm16)<br />
 <br />
-✉️ Email me with any questions: jeangm16@hotmail.com<br /><br />
+✉️ Email me with any questions: jeanmg16@hotmail.com<br /><br />
 _This README was generated with ❤️ by [README-generator](https://github.com/jeangm16/README-generator) _
     
