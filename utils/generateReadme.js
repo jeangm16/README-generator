@@ -32,8 +32,8 @@ This application is covered by the ${answers.license} license.
 :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
 ✉️ Email me with any questions: ${answers.email}<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) _
+_This README was generated with ❤️ by [README-generator](https://github.com/jeangm16/README-generator) _
     `;
-  }
+}
   
   module.exports = generateReadme;

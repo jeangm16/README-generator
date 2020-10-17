@@ -1,6 +1,6 @@
 # README-generator
 
-<h1 align="center">README.md Generator Using Node.js 👋</h1>
+<h1 align="center">README.md Generator Using Node.js </h1>
    
   
 ## Description
@@ -8,7 +8,6 @@
 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found [here](.dist/README.md)  
   
 
-  
 ## User Story
   
 ```
@@ -60,8 +59,8 @@ Run the following command at th root of your project and answer the prompted que
 `node index.js`
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jean16)
+:octocat: [Jean Gabriel Melendez](https://github.com/jeangm16)
 
 ## Questions
-Contact me with any questions: [email](mailto:jeangm16@hotmail.com) , [GitHub](https://github.com/jean16)<br />
+Contact me with any questions: [email](mailto:jeangm16@hotmail.com) , [GitHub](https://github.com/jeangm16)<br />
 
