@@ -22,7 +22,10 @@ Below is the gif showing the functionality of the application:
   
 ![README Generator](src/Readme-generatorGIF.gif)
 
-The full movie file showing functionality of the application can be found [here](src/Readme-generator.mp4)
+The full movie file showing functionality of the application can be found [here]("https://drive.google.com/file/d/1AZW2DB8Oad6qgwHVOjU_iXiuJHN1bFID/preview")
+
+<iframe src="https://drive.google.com/file/d/1AZW2DB8Oad6qgwHVOjU_iXiuJHN1bFID/preview" width="640" height="480"></iframe>
+
 
 ## Description
   
